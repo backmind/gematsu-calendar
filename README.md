@@ -1,4 +1,4 @@
-# gamatsu-calendar
+# gematsu-calendar
 
 Mirror auto-actualizable del calendario de eventos de
 [Gematsu](https://www.gematsu.com/events/).
