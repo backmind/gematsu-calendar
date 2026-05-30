@@ -17,7 +17,7 @@ GitHub Actions (cron diario)
    public/gematsu.ics  ──► GitHub Pages
         │
         ▼
-   https://backmind.github.io/gamatsu-calendar/gematsu.ics
+   https://backmind.github.io/gematsu-calendar/gematsu.ics
         │  (suscripción por URL)
         ▼
      Google Calendar  ──► siempre al día, sin imports manuales
@@ -39,7 +39,7 @@ El workflow está en [`.github/workflows/update-calendar.yml`](.github/workflows
    (A partir de ahí se ejecutará solo cada día.)
 3. **Suscríbete en Google Calendar:**
    - Copia la URL del feed:
-     `https://backmind.github.io/gamatsu-calendar/gematsu.ics`
+     `https://backmind.github.io/gematsu-calendar/gematsu.ics`
    - Google Calendar → *Otros calendarios* → **+** → *Suscribirse mediante URL*
    - Pega la URL → **Añadir calendario**.
 
