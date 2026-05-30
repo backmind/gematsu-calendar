@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gematsu Calendar · suscripción auto-actualizable</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      max-width: 640px;
+      margin: 3rem auto;
+      padding: 0 1.25rem;
+      line-height: 1.6;
+    }
+    h1 { font-size: 1.6rem; }
+    code, .url {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      background: rgba(127, 127, 127, 0.15);
+      padding: 0.15em 0.4em;
+      border-radius: 6px;
+      word-break: break-all;
+    }
+    .url-box {
+      display: block;
+      padding: 0.75rem 1rem;
+      margin: 1rem 0;
+      border: 1px solid rgba(127, 127, 127, 0.3);
+      border-radius: 10px;
+    }
+    ol { padding-left: 1.2rem; }
+    a.btn {
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      background: #4f46e5;
+      color: #fff;
+      text-decoration: none;
+    }
+    footer { margin-top: 3rem; font-size: 0.85rem; opacity: 0.7; }
+  </style>
+</head>
+<body>
+  <h1>📅 Gematsu Calendar</h1>
+  <p>
+    Réplica del calendario de eventos de
+    <a href="https://www.gematsu.com/events/">Gematsu</a>,
+    descargada automáticamente una vez al día y publicada como un feed iCal
+    estable al que puedes suscribirte.
+  </p>
+
+  <p>URL del feed para suscribirte:</p>
+  <code class="url url-box" id="feed-url">gematsu.ics</code>
+
+  <h2>Suscribirse en Google Calendar</h2>
+  <ol>
+    <li>Copia la URL de arriba.</li>
+    <li>Abre <a href="https://calendar.google.com/">Google Calendar</a>.</li>
+    <li>En la barra lateral: <strong>Otros calendarios</strong> → <strong>+</strong> → <strong>Suscribirse mediante URL</strong>.</li>
+    <li>Pega la URL y pulsa <strong>Añadir calendario</strong>.</li>
+  </ol>
+  <p>
+    Google volverá a sincronizar el calendario periódicamente por su cuenta,
+    así que los nuevos eventos aparecerán sin tener que importar nada a mano.
+  </p>
+
+  <a class="btn" id="download-link" href="gematsu.ics">Descargar gematsu.ics</a>
+
+  <footer>
+    Actualizado automáticamente mediante GitHub Actions.
+    El feed se reconstruye cada día desde el iCal oficial de Gematsu.
+  </footer>
+
+  <script>
+    // Muestra la URL absoluta del feed para que sea fácil de copiar.
+    var abs = new URL('gematsu.ics', window.location.href).href;
+    document.getElementById('feed-url').textContent = abs;
+  </script>
+</body>
+</html>

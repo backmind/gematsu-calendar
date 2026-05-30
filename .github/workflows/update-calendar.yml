@@ -1,0 +1,65 @@
+name: Update Gematsu Calendar
+
+# Descarga el feed iCal de Gematsu una vez al día y lo publica en GitHub Pages,
+# generando un endpoint suscribible y siempre actualizado para Google Calendar.
+
+on:
+  schedule:
+    # Todos los días a las 06:00 UTC. Usa https://crontab.guru para ajustarlo.
+    - cron: '0 6 * * *'
+  # Permite ejecutarlo manualmente desde la pestaña Actions (botón "Run workflow").
+  workflow_dispatch:
+
+# Permisos mínimos necesarios para desplegar en GitHub Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Evita despliegues solapados, pero no cancela uno en curso.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Descargar el feed iCal de Gematsu
+        run: |
+          mkdir -p public
+          curl -fsSL \
+            --retry 4 --retry-delay 5 --retry-all-errors \
+            --max-time 120 \
+            -A "Mozilla/5.0 (compatible; gamatsu-calendar-bot/1.0; +https://github.com/backmind/gamatsu-calendar)" \
+            "https://www.gematsu.com/events/?ical=1" \
+            -o public/gematsu.ics
+
+      - name: Validar el archivo descargado
+        run: |
+          # Asegura que sea un iCal real y no una página de error HTML.
+          if ! grep -q "BEGIN:VCALENDAR" public/gematsu.ics; then
+            echo "::error::El archivo descargado no es un iCal válido."
+            echo "----- primeras líneas -----"
+            head -c 500 public/gematsu.ics
+            exit 1
+          fi
+          echo "iCal válido. Eventos: $(grep -c 'BEGIN:VEVENT' public/gematsu.ics)"
+
+      - name: Generar página de inicio
+        run: cp index.html public/index.html
+
+      - name: Subir artefacto de Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
