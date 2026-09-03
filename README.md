@@ -14,7 +14,7 @@ como un endpoint estable al que te suscribes desde Google Calendar.
 GitHub Actions (cron diario)
         │  descarga https://www.gematsu.com/events/?ical=1
         ▼
-   public/gematsu.ics  ──► GitHub Pages
+   public/gematsu.ics  ──► commit en el repo + GitHub Pages
         │
         ▼
    https://backmind.github.io/gematsu-calendar/gematsu.ics
@@ -27,8 +27,8 @@ El workflow está en [`.github/workflows/update-calendar.yml`](.github/workflows
 
 - Se ejecuta a diario (`cron: '0 6 * * *'`, 06:00 UTC) y también a mano
   (botón **Run workflow** en la pestaña *Actions*).
-- Descarga el iCal, valida que sea un calendario real (no una página de error)
-  y lo despliega en GitHub Pages.
+- Descarga el iCal, valida que sea un calendario real (no una página de error),
+  lo guarda en el repo (`public/gematsu.ics`) y lo despliega en GitHub Pages.
 
 ## Puesta en marcha (una sola vez)
 
@@ -55,3 +55,8 @@ eventos de Gematsu aparecen automáticamente.
   (ver [crontab.guru](https://crontab.guru)).
 - **Si la descarga falla,** el despliegue se aborta y la última versión válida
   publicada sigue activa.
+- **Por qué se commitea el `.ics`:** GitHub desactiva los workflows
+  programados tras 60 días sin commits en el repo. Cada cambio del feed genera
+  un commit y, si el feed no cambia en 30 días, el workflow hace un commit
+  vacío de *keepalive*. Si aun así aparece como desactivado en la pestaña
+  *Actions*, basta con pulsar **Enable workflow**.
