@@ -22,21 +22,21 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260903T140000
-DTEND;TZID=America/New_York:20260903T150000
-DTSTAMP:20260903T132759
-CREATED:20260819T221711Z
-LAST-MODIFIED:20260819T221711Z
-UID:1070304-1788444000-1788447600@www.gematsu.com
-SUMMARY:The FPS Games Show 2026
-DESCRIPTION:Bulkhead Games will host The FPS Games Show 2026 on September 3 at 11:00 a.m. PT / 2:00 p.m. ET. You will be able to watch it on Twitch. \nThe broadcast will feature exclusive news\, trailers\, and gameplay\, as well as celebrate the first-person shooter genre as a whole\, with every developer involved participating freely\, with no paid placements or marketing spend required to appear in the show. \nThe show will feature 16 titles\, including: \n’83Beautiful LightBellumBodycamEscape from TarkovGray Zone WarfareHell Let Loose: VietnamIncursion Red RiverReady or NotRoad to VostokSCUMSAND: Raiders of SophieSTALZONETerminal WarTom Clancy’s Rainbow Six SiegeWARDOGS
-URL:https://www.gematsu.com/event/the-fps-games-show-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/08/Event_FPS-Show_09-03-26.jpg
+DTSTART;TZID=America/New_York:20260904T070000
+DTEND;TZID=America/New_York:20260904T080000
+DTSTAMP:20260904T061436
+CREATED:20260904T050650Z
+LAST-MODIFIED:20260904T050650Z
+UID:1075643-1788505200-1788508800@www.gematsu.com
+SUMMARY:Fate/EXTRA Record Showcase: Gameplay and Latest Updates
+DESCRIPTION:Publisher Aniplex and developers Meteorise and TYPE-MOON will host the “Fate/EXTRA Record Showcase: Gameplay and Latest Updates” program on September 4 at 20:00 JST. You can watch it on YouTube (English\, Japanese). \nThe broadcast will feature the latest updates on Fate/EXTRA Record\, with narration by voice actors Atsushi Abe and Yui Ishikawa (protagonist).
+URL:https://www.gematsu.com/event/fate-extra-record-showcase-gameplay-and-latest-updates
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Fate-EXTRA_09-04-26.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260910T063000
 DTEND;TZID=America/New_York:20260910T064000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260902T032118Z
 LAST-MODIFIED:20260902T032118Z
 UID:1074539-1789021800-1789022400@www.gematsu.com
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260910T080000
 DTEND;TZID=America/New_York:20260910T083000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260903T113938Z
 LAST-MODIFIED:20260903T113938Z
 UID:1074872-1789027200-1789029000@www.gematsu.com
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260912T050000
 DTEND;TZID=America/New_York:20260912T070000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260901T125121Z
 LAST-MODIFIED:20260901T125146Z
 UID:1074403-1789189200-1789196400@www.gematsu.com
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260901T124030Z
 LAST-MODIFIED:20260901T124030Z
 UID:1074400-1789570800-1789578000@www.gematsu.com
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T210000
 DTEND;TZID=America/New_York:20260921T030000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260616T004820Z
 LAST-MODIFIED:20260903T040828Z
 UID:1059490-1789592400-1789959600@www.gematsu.com
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260903T132759
+DTSTAMP:20260904T061436
 CREATED:20260902T151242Z
 LAST-MODIFIED:20260902T151301Z
 UID:1074686-1789905600-1789911000@www.gematsu.com
