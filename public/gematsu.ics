@@ -22,33 +22,9 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260910T063000
-DTEND;TZID=America/New_York:20260910T064000
-DTSTAMP:20260910T054420
-CREATED:20260902T032118Z
-LAST-MODIFIED:20260904T161040Z
-UID:1074539-1789021800-1789022400@www.gematsu.com
-SUMMARY:PLAYISM Game Show: TGS 2026 Preview
-DESCRIPTION:PLAYISM will host the “PLAYISM Game Show: Tokyo Game Show 2026 Preview” live stream on September 10 at 3:30 a.m. PT / 6:30 a.m. ET / 19:30 JST. You will be able to watch it on YouTube and Niconico. \nThe 10-minute broadcast will unveil PLAYISM’s full lineup of 11 titles to be exhibited at Tokyo Game Show 2026\, including titles being announced for the first time. After the main broadcast\, the presenters will demonstrate each title on stream. Presenters include hosts Neki Matsuzawa and Shunji Mizutani (PLAYISM)\, and guests Kirin and Shuhei Yoshida.
-URL:https://www.gematsu.com/event/playism-game-show-tgs-2026-preview
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_PLAYISM-Game-Show_09-10-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260910T080000
-DTEND;TZID=America/New_York:20260910T083000
-DTSTAMP:20260910T054420
-CREATED:20260903T113938Z
-LAST-MODIFIED:20260910T042613Z
-UID:1074872-1789027200-1789029000@www.gematsu.com
-SUMMARY:LEVEL-5 Vision 2026 II Dream
-DESCRIPTION:LEVEL-5 will host LEVEL-5 Vision 2026 II Dream on September 10 at 6:00 a.m. PT / 8:00 a.m. ET / 21:00 JST. You will be able to watch it on YouTube (English / Traditional Chinese\, Japanese). \nThe broadcast will feature the latest news and updates on titles from LEVEL-5. English and Traditional Chinese subtitles will be available.
-URL:https://www.gematsu.com/event/level-5-vision-2026-ii-dream
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_LEVEL-5_09-10-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260912T050000
 DTEND;TZID=America/New_York:20260912T070000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260901T125121Z
 LAST-MODIFIED:20260907T052308Z
 UID:1074403-1789189200-1789196400@www.gematsu.com
@@ -60,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260912T080000
 DTEND;TZID=America/New_York:20260912T090000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260907T040857Z
 LAST-MODIFIED:20260907T040857Z
 UID:1075978-1789200000-1789203600@www.gematsu.com
@@ -70,9 +46,33 @@ URL:https://www.gematsu.com/event/genshin-impact-version-7-1-a-rekviem-for-the-u
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Genshin_09-12-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260914T110000
+DTEND;TZID=America/New_York:20260914T120000
+DTSTAMP:20260911T053841
+CREATED:20260910T145837Z
+LAST-MODIFIED:20260908T194345Z
+UID:1076593-1789383600-1789387200@www.gematsu.com
+SUMMARY:tinyBuild Connect 2026
+DESCRIPTION:tinyBuild will host tinyBuild Connect 2026 on September 14 at 8:00 a.m. PT / 11:00 a.m. ET\, the publisher announced. You will be able to watch it on YouTube\, Twitch\, and Bilibili. \nThe broadcast will feature new game announcements\, demos\, updates\, and trailers\, including the long-awaited return of Kingmakers with a 10-minute gameplay deep dive\, new looks at The Lift and Grave Yardyard Keeper 2\, updates for Hozy\, Of Ash and Steel\, and SAND: Raiders of Sophie\, and “so much more.”
+URL:https://www.gematsu.com/event/tinybuild-connect-2026
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_tinyBuild-Connect_09-14-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260916T073000
+DTEND;TZID=America/New_York:20260916T083000
+DTSTAMP:20260911T053841
+CREATED:20260910T110749Z
+LAST-MODIFIED:20260910T110749Z
+UID:1077789-1789543800-1789547400@www.gematsu.com
+SUMMARY:Neverness to Everness Version 1.4 Update "For Whom the Verses Mourn" Preview Special Program
+DESCRIPTION:Publisher Perfect World Games and developer Hotta Studio will host the free-to-play supernatural urban open-world action RPG Neverness to Everness Version 1.4 Update “For Whom the Verses Mourn” Preview Special Program on September 16 at 4:30 a.m. PT / 7:30 a.m. ET. You will be able to watch it on YouTube (English\, Japanese\, Korean) and Twitch.
+URL:https://www.gematsu.com/event/neverness-to-everness-version-1-4-update-for-whom-the-verses-mourn-preview-special-program
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_NTE_09-16-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260901T124030Z
 LAST-MODIFIED:20260901T124030Z
 UID:1074400-1789570800-1789578000@www.gematsu.com
@@ -84,9 +84,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T210000
 DTEND;TZID=America/New_York:20260921T030000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260616T004820Z
-LAST-MODIFIED:20260910T041442Z
+LAST-MODIFIED:20260910T211709Z
 UID:1059490-1789592400-1789959600@www.gematsu.com
 SUMMARY:Tokyo Game Show 2026
 DESCRIPTION:Computer Entertainment Supplier’s Association will host Tokyo Game Show 2026 from September 17 to 21 at Makuhari Messe in Chiba\, Japan. \nName: Tokyo Game Show 2026Organizer: Computer Entertainment Supplier’s Association (CESA)Co-Organizers: Nikkei Business Publications\, Inc.\, Sony Music Solutions Inc.Dates:\nSeptember 17\, 2026 (Thu) Business Day 10:00 to 17:00September 18\, 2026 (Fri) Business Day 10:00 to 17:00September 19\, 2026 (Sat) Public Day 9:30 to 17:00September 20\, 2026 (Sun) Public Day 9:30 to 17:00September 21\, 2026 (Mon/Holiday) Public Day 9:30 to 16:00\n\n*Opening hours differ between Business Days and Public Days.\n*Opening hours on Public Days may be advanced by 30 minutes depending on circumstances. \nVenue: Makuhari Messe (Exhibition Halls 1–11\, International Convention Center)\, TKP. Tokyo Bay Makuhari HallExpected Number of Visitors: 300\,000Number of Booths: 3\,500 booths (tentative)Official Website: https://tgs.cesa.or.jp/en\nFind each publisher’s lineup and schedule below.
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T190000
 DTEND;TZID=America/New_York:20260919T193000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260910T020337Z
 LAST-MODIFIED:20260910T020603Z
 UID:1077652-1789844400-1789846200@www.gematsu.com
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T063000
 DTEND;TZID=America/New_York:20260920T080000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260908T123656Z
 LAST-MODIFIED:20260908T123656Z
 UID:1076406-1789885800-1789891200@www.gematsu.com
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260910T054420
+DTSTAMP:20260911T053841
 CREATED:20260902T151242Z
 LAST-MODIFIED:20260902T151301Z
 UID:1074686-1789905600-1789911000@www.gematsu.com
