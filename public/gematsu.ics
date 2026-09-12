@@ -22,21 +22,9 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260912T050000
-DTEND;TZID=America/New_York:20260912T070000
-DTSTAMP:20260911T053841
-CREATED:20260901T125121Z
-LAST-MODIFIED:20260907T052308Z
-UID:1074403-1789189200-1789196400@www.gematsu.com
-SUMMARY:Aniplex One Focus 2026
-DESCRIPTION:Aniplex will host Aniplex One Focus 2026 on September 12 at 18:00 JST. You will be able to watch it on YouTube. \nThe broadcast will feature newly unveiled information on various anime\, games\, and movies. It will focus primarily on anime premiering in October\, while also spotlighting movies\, titles due out in 2027 and beyond\, and games. \nFeatured titles include: \nA Returner’s Magic Should Be SpecialBeast King War God DandivineEven the Student Council Has Its Holes!Expelled from Paradise: Resonance from the HeartFall in Love\, You False AngelsFate/EXTRA RecordGROTESQQQUEThe Guy She Was Interested in Wasn’t a Guy at AllInherit the WindsMagical ExplorerMelty Blood: Twi-LuminaPlease Excuse My Younger BrothersPressPuella Magi Madoka Magica the Movie -Walpurgisnacht Rising-Rascal Does Not Dream of a Dear Friend (anime movie)Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!RilakkumaVertex ForceWitch on the Holy Night (anime movie)And more!
-URL:https://www.gematsu.com/event/aniplex-one-focus-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_AOF_09-12-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260912T080000
 DTEND;TZID=America/New_York:20260912T090000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260907T040857Z
 LAST-MODIFIED:20260907T040857Z
 UID:1075978-1789200000-1789203600@www.gematsu.com
@@ -48,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260914T110000
 DTEND;TZID=America/New_York:20260914T120000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260910T145837Z
 LAST-MODIFIED:20260908T194345Z
 UID:1076593-1789383600-1789387200@www.gematsu.com
@@ -60,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T073000
 DTEND;TZID=America/New_York:20260916T083000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260910T110749Z
 LAST-MODIFIED:20260910T110749Z
 UID:1077789-1789543800-1789547400@www.gematsu.com
@@ -72,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260901T124030Z
 LAST-MODIFIED:20260901T124030Z
 UID:1074400-1789570800-1789578000@www.gematsu.com
@@ -84,9 +72,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T210000
 DTEND;TZID=America/New_York:20260921T030000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260616T004820Z
-LAST-MODIFIED:20260910T211709Z
+LAST-MODIFIED:20260911T151333Z
 UID:1059490-1789592400-1789959600@www.gematsu.com
 SUMMARY:Tokyo Game Show 2026
 DESCRIPTION:Computer Entertainment Supplier’s Association will host Tokyo Game Show 2026 from September 17 to 21 at Makuhari Messe in Chiba\, Japan. \nName: Tokyo Game Show 2026Organizer: Computer Entertainment Supplier’s Association (CESA)Co-Organizers: Nikkei Business Publications\, Inc.\, Sony Music Solutions Inc.Dates:\nSeptember 17\, 2026 (Thu) Business Day 10:00 to 17:00September 18\, 2026 (Fri) Business Day 10:00 to 17:00September 19\, 2026 (Sat) Public Day 9:30 to 17:00September 20\, 2026 (Sun) Public Day 9:30 to 17:00September 21\, 2026 (Mon/Holiday) Public Day 9:30 to 16:00\n\n*Opening hours differ between Business Days and Public Days.\n*Opening hours on Public Days may be advanced by 30 minutes depending on circumstances. \nVenue: Makuhari Messe (Exhibition Halls 1–11\, International Convention Center)\, TKP. Tokyo Bay Makuhari HallExpected Number of Visitors: 300\,000Number of Booths: 3\,500 booths (tentative)Official Website: https://tgs.cesa.or.jp/en\nFind each publisher’s lineup and schedule below.
@@ -96,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T190000
 DTEND;TZID=America/New_York:20260919T193000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260910T020337Z
 LAST-MODIFIED:20260910T020603Z
 UID:1077652-1789844400-1789846200@www.gematsu.com
@@ -108,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T063000
 DTEND;TZID=America/New_York:20260920T080000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260908T123656Z
 LAST-MODIFIED:20260908T123656Z
 UID:1076406-1789885800-1789891200@www.gematsu.com
@@ -120,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260911T053841
+DTSTAMP:20260912T060158
 CREATED:20260902T151242Z
 LAST-MODIFIED:20260902T151301Z
 UID:1074686-1789905600-1789911000@www.gematsu.com
