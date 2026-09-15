@@ -22,21 +22,9 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260914T110000
-DTEND;TZID=America/New_York:20260914T120000
-DTSTAMP:20260914T070825
-CREATED:20260910T145837Z
-LAST-MODIFIED:20260908T194345Z
-UID:1076593-1789383600-1789387200@www.gematsu.com
-SUMMARY:tinyBuild Connect 2026
-DESCRIPTION:tinyBuild will host tinyBuild Connect 2026 on September 14 at 8:00 a.m. PT / 11:00 a.m. ET\, the publisher announced. You will be able to watch it on YouTube\, Twitch\, and Bilibili. \nThe broadcast will feature new game announcements\, demos\, updates\, and trailers\, including the long-awaited return of Kingmakers with a 10-minute gameplay deep dive\, new looks at The Lift and Grave Yardyard Keeper 2\, updates for Hozy\, Of Ash and Steel\, and SAND: Raiders of Sophie\, and “so much more.”
-URL:https://www.gematsu.com/event/tinybuild-connect-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_tinyBuild-Connect_09-14-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T073000
 DTEND;TZID=America/New_York:20260916T083000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260910T110749Z
 LAST-MODIFIED:20260910T110749Z
 UID:1077789-1789543800-1789547400@www.gematsu.com
@@ -48,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260901T124030Z
 LAST-MODIFIED:20260901T124030Z
 UID:1074400-1789570800-1789578000@www.gematsu.com
@@ -60,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T210000
 DTEND;TZID=America/New_York:20260921T030000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260616T004820Z
-LAST-MODIFIED:20260914T070407Z
+LAST-MODIFIED:20260915T053656Z
 UID:1059490-1789592400-1789959600@www.gematsu.com
 SUMMARY:Tokyo Game Show 2026
 DESCRIPTION:Computer Entertainment Supplier’s Association will host Tokyo Game Show 2026 from September 17 to 21 at Makuhari Messe in Chiba\, Japan. \nName: Tokyo Game Show 2026Organizer: Computer Entertainment Supplier’s Association (CESA)Co-Organizers: Nikkei Business Publications\, Inc.\, Sony Music Solutions Inc.Dates:\nSeptember 17\, 2026 (Thu) Business Day 10:00 to 17:00September 18\, 2026 (Fri) Business Day 10:00 to 17:00September 19\, 2026 (Sat) Public Day 9:30 to 17:00September 20\, 2026 (Sun) Public Day 9:30 to 17:00September 21\, 2026 (Mon/Holiday) Public Day 9:30 to 16:00\n\n*Opening hours differ between Business Days and Public Days.\n*Opening hours on Public Days may be advanced by 30 minutes depending on circumstances. \nVenue: Makuhari Messe (Exhibition Halls 1–11\, International Convention Center)\, TKP. Tokyo Bay Makuhari HallExpected Number of Visitors: 300\,000Number of Booths: 3\,500 booths (tentative)Official Website: https://tgs.cesa.or.jp/en\nFind each publisher’s lineup and schedule below.
@@ -72,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T070000
 DTEND;TZID=America/New_York:20260919T080000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260912T140303Z
 LAST-MODIFIED:20260912T140303Z
 UID:1078164-1789801200-1789804800@www.gematsu.com
@@ -84,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T190000
 DTEND;TZID=America/New_York:20260919T193000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260910T020337Z
 LAST-MODIFIED:20260910T020603Z
 UID:1077652-1789844400-1789846200@www.gematsu.com
@@ -96,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T063000
 DTEND;TZID=America/New_York:20260920T080000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260908T123656Z
 LAST-MODIFIED:20260908T123656Z
 UID:1076406-1789885800-1789891200@www.gematsu.com
@@ -106,9 +94,21 @@ URL:https://www.gematsu.com/event/persona-30th-anniversary-special-live-stream
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Persona-30th_09-20-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260920T073000
+DTEND;TZID=America/New_York:20260920T083000
+DTSTAMP:20260915T070006
+CREATED:20260914T123631Z
+LAST-MODIFIED:20260914T123631Z
+UID:1078467-1789889400-1789893000@www.gematsu.com
+SUMMARY:Honkai: Star Rail Version 4.6 "Dance With the Beast Before Moonrise" Special Program
+DESCRIPTION:miHoYo will host the Honkai: Star Rail Version 4.6 “Dance With the Beast Before Moonrise” Special Program on September 20 at 4:30 a.m. PT / 7:30 a.m. ET. You will be able to watch it on YouTube (English\, Japanese\, Korean\, Traditional Chinese). \nThe description reads: “‘The beast stirring in the darkness opens THEIR maw once more\, demanding a god as a sacrifice. Before the moon rises again\, only the blood of the wise can sate THEIR hunger…’ This Special Program will feature character introductions for Pearl as well as the latest information and rewards in Version 4.6.”
+URL:https://www.gematsu.com/event/honkai-star-rail-version-4-6-dance-with-the-beast-before-moonrise-special-program
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Honkai-Star-Rail_09-20-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260914T070825
+DTSTAMP:20260915T070006
 CREATED:20260902T151242Z
 LAST-MODIFIED:20260902T151301Z
 UID:1074686-1789905600-1789911000@www.gematsu.com
@@ -116,5 +116,17 @@ SUMMARY:PC Gaming Show Tokyo Direct 2026
 DESCRIPTION:PC Gamer will host PC Gaming Show Tokyo Direct 2026 as part of Tokyo Game Show 2026 on September 20 at 9:00 a.m. PT / 12:00 p.m. ET. You will be able to watch it on YouTube\, Twitch\, Twitter\, Facebook\, and Steam. \nThe 90-minute show will spotlight more than 35 games with publishers such as Atari\, Devolver Digital\, and New Blood Interactive confirmed to appear. Viewers can expect exclusive trailers\, news from the show floor\, developer interviews\, and world premieres.
 URL:https://www.gematsu.com/event/pc-gaming-show-tokyo-direct-2026
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_PC-Gaming-Show-Tokyo_09-20-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261008T120000
+DTEND;TZID=America/New_York:20261008T124500
+DTSTAMP:20260915T070006
+CREATED:20260914T161242Z
+LAST-MODIFIED:20260914T184358Z
+UID:1078597-1791460800-1791463500@www.gematsu.com
+SUMMARY:The Triple-i Initiative: October 8\, 2026
+DESCRIPTION:Evil Empire will host a surprise edition of The Triple-i Initiative on October 8 at 9:00 a.m. PT / 12:00 p.m. ET\, the company announced. You will be able to watch it on YouTube and Twitch. \nThe broadcast will feature 45 minutes of back-to-back trailers for independent games\, with eight exclusive world premieres from studios such as Amanita Design\, Norsfell\, Strange Scaffold\, and Team17\, plus gameplay reveals\, release dates\, and other announcements across 40 games\, including the new Among Us title\, Brotato\, Chained Together\, DAVE THE DIVER\, Haunted Paws\, Hela: of Mice & Magic\, MILITSIONER\, Outward 2\, Pony Island 2: Panda Circus\, Risk of Rain 2\, and Windrose.
+URL:https://www.gematsu.com/event/the-triple-i-initiative-october-8-2026
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Triple-i_10-08-26.jpg
 END:VEVENT
 END:VCALENDAR
