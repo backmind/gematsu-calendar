@@ -24,7 +24,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T073000
 DTEND;TZID=America/New_York:20260916T083000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260910T110749Z
 LAST-MODIFIED:20260910T110749Z
 UID:1077789-1789543800-1789547400@www.gematsu.com
@@ -36,9 +36,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T150000
 DTEND;TZID=America/New_York:20260916T170000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260901T124030Z
-LAST-MODIFIED:20260901T124030Z
+LAST-MODIFIED:20260916T053536Z
 UID:1074400-1789570800-1789578000@www.gematsu.com
 SUMMARY:devINITIVE Showcase 2026
 DESCRIPTION:devINITIVE Showcase 2026 will take place on  September 16 at 12:00 p.m. PT / 3:00 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe two-hour broadcast will feature a selection of independent Spanish and Latin American video games\, including world premieres\, exclusive demos\, and release dates. The organization team selected games from more than 250 submissions received\, resulting in a final lineup of around 90 titles.
@@ -48,9 +48,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260916T210000
 DTEND;TZID=America/New_York:20260921T030000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260616T004820Z
-LAST-MODIFIED:20260915T053656Z
+LAST-MODIFIED:20260916T050127Z
 UID:1059490-1789592400-1789959600@www.gematsu.com
 SUMMARY:Tokyo Game Show 2026
 DESCRIPTION:Computer Entertainment Supplier’s Association will host Tokyo Game Show 2026 from September 17 to 21 at Makuhari Messe in Chiba\, Japan. \nName: Tokyo Game Show 2026Organizer: Computer Entertainment Supplier’s Association (CESA)Co-Organizers: Nikkei Business Publications\, Inc.\, Sony Music Solutions Inc.Dates:\nSeptember 17\, 2026 (Thu) Business Day 10:00 to 17:00September 18\, 2026 (Fri) Business Day 10:00 to 17:00September 19\, 2026 (Sat) Public Day 9:30 to 17:00September 20\, 2026 (Sun) Public Day 9:30 to 17:00September 21\, 2026 (Mon/Holiday) Public Day 9:30 to 16:00\n\n*Opening hours differ between Business Days and Public Days.\n*Opening hours on Public Days may be advanced by 30 minutes depending on circumstances. \nVenue: Makuhari Messe (Exhibition Halls 1–11\, International Convention Center)\, TKP. Tokyo Bay Makuhari HallExpected Number of Visitors: 300\,000Number of Booths: 3\,500 booths (tentative)Official Website: https://tgs.cesa.or.jp/en\nFind each publisher’s lineup and schedule below.
@@ -58,9 +58,21 @@ URL:https://www.gematsu.com/event/tokyo-game-show-2026
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/06/Event_TGS-2026-Initis_09-17-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20260917T120000
+DTEND;TZID=America/New_York:20260917T130000
+DTSTAMP:20260916T062658
+CREATED:20260915T154835Z
+LAST-MODIFIED:20260915T154835Z
+UID:1078958-1789646400-1789650000@www.gematsu.com
+SUMMARY:The Crew Showcase 2026
+DESCRIPTION:Ubisoft will host The Crew Showcase 2026 on September 17 at 9:00 a.m. PT / 12:00 p.m. ET. You will be able to watch it on YouTube. \nThe broadcast will feature a look at what players can expect for The Crew Motorfest Year 4.
+URL:https://www.gematsu.com/event/the-crew-showcase-2026
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_The-Crew_09-17-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T070000
 DTEND;TZID=America/New_York:20260919T080000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260912T140303Z
 LAST-MODIFIED:20260912T140303Z
 UID:1078164-1789801200-1789804800@www.gematsu.com
@@ -72,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260919T190000
 DTEND;TZID=America/New_York:20260919T193000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260910T020337Z
 LAST-MODIFIED:20260910T020603Z
 UID:1077652-1789844400-1789846200@www.gematsu.com
@@ -84,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T063000
 DTEND;TZID=America/New_York:20260920T080000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260908T123656Z
 LAST-MODIFIED:20260908T123656Z
 UID:1076406-1789885800-1789891200@www.gematsu.com
@@ -96,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T073000
 DTEND;TZID=America/New_York:20260920T083000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260914T123631Z
 LAST-MODIFIED:20260914T123631Z
 UID:1078467-1789889400-1789893000@www.gematsu.com
@@ -108,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260902T151242Z
 LAST-MODIFIED:20260902T151301Z
 UID:1074686-1789905600-1789911000@www.gematsu.com
@@ -120,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261008T120000
 DTEND;TZID=America/New_York:20261008T124500
-DTSTAMP:20260915T070006
+DTSTAMP:20260916T062658
 CREATED:20260914T161242Z
 LAST-MODIFIED:20260914T184358Z
 UID:1078597-1791460800-1791463500@www.gematsu.com
