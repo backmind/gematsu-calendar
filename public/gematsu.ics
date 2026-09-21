@@ -22,45 +22,9 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260920T063000
-DTEND;TZID=America/New_York:20260920T080000
-DTSTAMP:20260920T060126
-CREATED:20260908T123656Z
-LAST-MODIFIED:20260908T123656Z
-UID:1076406-1789885800-1789891200@www.gematsu.com
-SUMMARY:Persona 30th Anniversary Special Live Stream
-DESCRIPTION:ATLUS will host the Persona 30th Anniversary Special Live Stream on September 20 at 19:30 JST. You will be able to watch it on YouTube. \nThe broadcast will celebrate the Persona series’ 30th anniversary with talks and live performances\, as well as feature a Tokyo Game Show 2026 edition of the “Persona 30th Anniversary Merchandise and Event News Channel.”  \nPresenters include host Neki Matsuzawa (Chiaki Matsuzawa) and ugests Daisuke Namikawa (voice actor for the Protagonist of Persona 4)\, Jun Fukuyama (voice actor for the Protagonist of Persona 5)\, Shiori Sasaki (Persona 4 singer)\, Lyn (Persona 5 singer)\,  Azumi Takahashi (Persona 3 Reload singer)\, and Lotus Juice (Persona 3 singer).
-URL:https://www.gematsu.com/event/persona-30th-anniversary-special-live-stream
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Persona-30th_09-20-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260920T073000
-DTEND;TZID=America/New_York:20260920T083000
-DTSTAMP:20260920T060127
-CREATED:20260914T123631Z
-LAST-MODIFIED:20260914T123631Z
-UID:1078467-1789889400-1789893000@www.gematsu.com
-SUMMARY:Honkai: Star Rail Version 4.6 "Dance With the Beast Before Moonrise" Special Program
-DESCRIPTION:miHoYo will host the Honkai: Star Rail Version 4.6 “Dance With the Beast Before Moonrise” Special Program on September 20 at 4:30 a.m. PT / 7:30 a.m. ET. You will be able to watch it on YouTube (English\, Japanese\, Korean\, Traditional Chinese). \nThe description reads: “‘The beast stirring in the darkness opens THEIR maw once more\, demanding a god as a sacrifice. Before the moon rises again\, only the blood of the wise can sate THEIR hunger…’ This Special Program will feature character introductions for Pearl as well as the latest information and rewards in Version 4.6.”
-URL:https://www.gematsu.com/event/honkai-star-rail-version-4-6-dance-with-the-beast-before-moonrise-special-program
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Honkai-Star-Rail_09-20-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20260920T120000
-DTEND;TZID=America/New_York:20260920T133000
-DTSTAMP:20260920T060127
-CREATED:20260902T151242Z
-LAST-MODIFIED:20260902T151301Z
-UID:1074686-1789905600-1789911000@www.gematsu.com
-SUMMARY:PC Gaming Show Tokyo Direct 2026
-DESCRIPTION:PC Gamer will host PC Gaming Show Tokyo Direct 2026 as part of Tokyo Game Show 2026 on September 20 at 9:00 a.m. PT / 12:00 p.m. ET. You will be able to watch it on YouTube\, Twitch\, Twitter\, Facebook\, and Steam. \nThe 90-minute show will spotlight more than 35 games with publishers such as Atari\, Devolver Digital\, and New Blood Interactive confirmed to appear. Viewers can expect exclusive trailers\, news from the show floor\, developer interviews\, and world premieres.
-URL:https://www.gematsu.com/event/pc-gaming-show-tokyo-direct-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_PC-Gaming-Show-Tokyo_09-20-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T140000
-DTSTAMP:20260920T060127
+DTSTAMP:20260921T072841
 CREATED:20260916T183607Z
 LAST-MODIFIED:20260916T183607Z
 UID:1079449-1790686800-1790690400@www.gematsu.com
@@ -72,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261008T120000
 DTEND;TZID=America/New_York:20261008T124500
-DTSTAMP:20260920T060127
+DTSTAMP:20260921T072841
 CREATED:20260914T161242Z
 LAST-MODIFIED:20260914T184358Z
 UID:1078597-1791460800-1791463500@www.gematsu.com
@@ -84,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T150000
-DTSTAMP:20260920T060127
+DTSTAMP:20260921T072841
 CREATED:20260916T183742Z
 LAST-MODIFIED:20260916T183742Z
 UID:1079450-1791813600-1791817200@www.gematsu.com
