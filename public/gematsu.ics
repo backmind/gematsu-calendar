@@ -22,33 +22,33 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261007T140000
-DTEND;TZID=America/New_York:20261007T160000
-DTSTAMP:20261007T083604
-CREATED:20261006T175534Z
-LAST-MODIFIED:20261007T024802Z
-UID:1082461-1791381600-1791388800@www.gematsu.com
-SUMMARY:Harvest of Terror 2026: A Horror Game Awards Showcase
-DESCRIPTION:Horror Game Awards will host Harvest of Terror 2026: A Horror Game Awards Showcase on October 7 at 11:00 a.m. PT / 2:00 p.m. ET. You will be able to watch it on YouTube. \nThe broadcast will feature trailers from the following companies and games: \n2 Weird GamesArmatureAutumn KnightBackyard ZooBarotrauma Downloadable Content Expansion “Home & Harbor”BitQuest StudioBlack Lantern CollectiveCmskiChusketeerCroxel StudiosCrybabyCtrl FreakDaedalic EntertainmentDead WatchDual EffectEldamar StudioEldtritch HouseFeardemicGMD13Game AtelierGhoulishGrumpy Rock StudiosGuzzo ProductionsHaunting Humans StudioHave a DreamHere Be MonstersHere BelowHideWorksIvy JuiceKitico GamesKyle BanksLABORARELiquid SquidLiquid StaticLitio GamesLord BorealisLucid Rain StudiosMaboroshi ArtworksMac n Cheese GamesMantisMechaniKOIMidnight ForgeMike TenMomentum GamesMontseral InteractiveMoon CatalystNew Blood InteractiveOn The House StudiosOut FishingPainted Black GamesPappy’s Pipe DreamPhantom Lake GamesProject GaidenQuarter GamesRetrofiction GamesSection 9 InteractiveSerafini ProductionsShoreline GamesSnowberry GamesSoft Source PublishingSteel MantisSteelkrill StudioStilbruch GamesStormind GamesStudio AbattoirStudio NooriSun and Serpent CreationsTall Tide GamesTeam JunkfishTen Image PublishingThe Miracle of San MartinTiago RechTime HuntersTop Hat StudiosTrapped PredatorTrue Ronin GamesTwo Cakes StudioUltimate GamesUNIKAT LabelVidas GamesWales InteractiveWeird EngineWildflame StudioXCATHEDRA Games
-URL:https://www.gematsu.com/event/harvest-of-terror-2026-a-horror-game-awards-showcase
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Harvest-Terror-2026_10-07-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261008T120000
 DTEND;TZID=America/New_York:20261008T124500
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20260914T161242Z
-LAST-MODIFIED:20261007T014420Z
+LAST-MODIFIED:20261008T053718Z
 UID:1078597-1791460800-1791463500@www.gematsu.com
 SUMMARY:The Triple-i Initiative: October 8\, 2026
-DESCRIPTION:Evil Empire will host a surprise edition of The Triple-i Initiative on October 8 at 9:00 a.m. PT / 12:00 p.m. ET\, the company announced. You will be able to watch it on YouTube and Twitch. \nThe broadcast will feature 45 minutes of back-to-back trailers for independent games\, with eight exclusive world premieres from studios such as Amanita Design\, Norsfell\, Strange Scaffold\, and Team17\, plus gameplay reveals\, release dates\, and other announcements across 40 games\, including Among Us Story: On Guard\, Brotato\, Chained Together\, DAVE THE DIVER\, Haunted Paws\, Hela: of Mice & Magic\, MILITSIONER\, Outward 2\, Pony Island 2: Panda Circus\, Risk of Rain 2\, and Windrose.
+DESCRIPTION:Evil Empire will host a surprise edition of The Triple-i Initiative on October 8 at 9:00 a.m. PT / 12:00 p.m. ET\, the company announced. You will be able to watch it on YouTube and Twitch. \nThe broadcast will feature 45 minutes of back-to-back trailers for independent games\, with eight exclusive world premieres from studios such as Amanita Design\, Norsfell\, Strange Scaffold\, and Team17\, plus gameplay reveals\, release dates\, and other announcements across 40 games\, including Among Us Story: On Guard\, Brotato\, Chained Together\, DAVE THE DIVER\, Haunted Paws\, Hela: of Mice & Magic\, MILITSIONER\, Outward 2\, Pony Island 2: Panda Circus\, Risk of Rain 2\, and Windrose. \nParticipating publishers and developers include: \n11 bit studios12AM BLACKOUTAlliance ArtsAmanita DesignBetadwarfBlobfishCode WakersCRITICAL REFLEXCroteamCurve GamesDaniel Mullins GamesDemon MaxDevolver DigitalDigital SunDream Reality InteractiveEvil EmpireFirefly StudiosFireshine GamesForklift InteractiveFury StudiosFuture Friends GamesGearbox SoftwareGlass Head DollsHarvester GamesHibernian WorkshopHypeTrain DigitalInnerslothJoe FenderKilowatt GamesKnights PeakKraken ExpressKwaleeLab42Lazy FlockLichthundMINTROCKETManzanita InteractiveNine Dots StudioNorsfellPerfect RandomPocketpairRaw FuryRedRuins SoftworksRetromagineSaltitudeSecret ModeSquare EnixStrange ScaffoldTALLBOYSTeam Instant DefeatTeam17WINGSWayfinder StudiosWindup Games
 URL:https://www.gematsu.com/event/the-triple-i-initiative-october-8-2026
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Triple-i-Initiative-Oct-2026_10-08-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261008T143000
+DTEND;TZID=America/New_York:20261008T170000
+DTSTAMP:20261008T075204
+CREATED:20261007T234707Z
+LAST-MODIFIED:20261007T234707Z
+UID:1082776-1791469800-1791478800@www.gematsu.com
+SUMMARY:Convergence Games Showcase: October 8\, 2026
+DESCRIPTION:Fourth Floor will host Convergence Games Showcase on October 8 at 11:30 a.m. PT / 2:30 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe broadcast will independent game trailers\, gameplay\, and exclusive reveals.
+URL:https://www.gematsu.com/event/convergence-games-showcase-october-8-2026
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Convergence-Inits_10-08-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261009T193000
 DTEND;TZID=America/New_York:20261009T203000
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20261006T180256Z
 LAST-MODIFIED:20261006T180256Z
 UID:1082467-1791574200-1791577800@www.gematsu.com
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T150000
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20260916T183742Z
 LAST-MODIFIED:20260916T183742Z
 UID:1079450-1791813600-1791817200@www.gematsu.com
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T070000
 DTEND;TZID=America/New_York:20261015T073000
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20260921T145502Z
 LAST-MODIFIED:20261001T132912Z
 UID:1080275-1792047600-1792049400@www.gematsu.com
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T160000
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20261001T132830Z
 LAST-MODIFIED:20261002T140033Z
 UID:1081834-1792076400-1792080000@www.gematsu.com
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261016T120000
 DTEND;TZID=America/New_York:20261016T140000
-DTSTAMP:20261007T083604
+DTSTAMP:20261008T075204
 CREATED:20260929T023158Z
 LAST-MODIFIED:20260929T023158Z
 UID:1074376-1792152000-1792159200@www.gematsu.com
