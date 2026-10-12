@@ -24,9 +24,9 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261012T140000
 DTEND;TZID=America/New_York:20261012T150000
-DTSTAMP:20261011T070256
+DTSTAMP:20261012T083826
 CREATED:20260916T183742Z
-LAST-MODIFIED:20260916T183742Z
+LAST-MODIFIED:20261012T045224Z
 UID:1079450-1791813600-1791817200@www.gematsu.com
 SUMMARY:Cozy After Dark Showcase 2026
 DESCRIPTION:Dames 4 Games\, Draknek & Friends\, and CONTINUE will host the first-ever Cozy After Dark Showcase on October 12 at 11:00 a.m. PT / 2:00 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe showcase will feature more than 50 trailers and developer spotlights\, including new game launches\, demo drops\, announcements\, and more from publishers and studios including Balor Games\, Devolver Digital\, and Raw Fury\, as well as independent developers from around the world. \nCozy After Dark focuses on games that combine cozy and inviting elements with stranger\, darker\, mysterious\, or unsettling themes. \nThe showcase will also kick off the Cozy After Dark Steam event\, which will run from October 12 to 19. The event will feature games from the showcase\, new and updated demos\, special discounts\, and upcoming titles available to wishlist.
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T070000
 DTEND;TZID=America/New_York:20261015T073000
-DTSTAMP:20261011T070256
+DTSTAMP:20261012T083826
 CREATED:20260921T145502Z
 LAST-MODIFIED:20261001T132912Z
 UID:1080275-1792047600-1792049400@www.gematsu.com
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T160000
-DTSTAMP:20261011T070256
+DTSTAMP:20261012T083826
 CREATED:20261001T132830Z
 LAST-MODIFIED:20261002T140033Z
 UID:1081834-1792076400-1792080000@www.gematsu.com
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261016T120000
 DTEND;TZID=America/New_York:20261016T140000
-DTSTAMP:20261011T070256
+DTSTAMP:20261012T083826
 CREATED:20260929T023158Z
 LAST-MODIFIED:20260929T023158Z
 UID:1074376-1792152000-1792159200@www.gematsu.com
