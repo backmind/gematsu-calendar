@@ -22,21 +22,21 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261012T140000
-DTEND;TZID=America/New_York:20261012T150000
-DTSTAMP:20261012T083826
-CREATED:20260916T183742Z
-LAST-MODIFIED:20261012T045224Z
-UID:1079450-1791813600-1791817200@www.gematsu.com
-SUMMARY:Cozy After Dark Showcase 2026
-DESCRIPTION:Dames 4 Games\, Draknek & Friends\, and CONTINUE will host the first-ever Cozy After Dark Showcase on October 12 at 11:00 a.m. PT / 2:00 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe showcase will feature more than 50 trailers and developer spotlights\, including new game launches\, demo drops\, announcements\, and more from publishers and studios including Balor Games\, Devolver Digital\, and Raw Fury\, as well as independent developers from around the world. \nCozy After Dark focuses on games that combine cozy and inviting elements with stranger\, darker\, mysterious\, or unsettling themes. \nThe showcase will also kick off the Cozy After Dark Steam event\, which will run from October 12 to 19. The event will feature games from the showcase\, new and updated demos\, special discounts\, and upcoming titles available to wishlist.
-URL:https://www.gematsu.com/event/cozy-after-dark-showcase-2026
-ATTACH;FMTTYPE=image/png:https://www.gematsu.com/wp-content/uploads/2026/09/Event_Cozy-After-Dark_10-12-26.png
+DTSTART;TZID=America/New_York:20261014T130000
+DTEND;TZID=America/New_York:20261014T160000
+DTSTAMP:20261013T092307
+CREATED:20261013T034536Z
+LAST-MODIFIED:20261013T034536Z
+UID:1083806-1791982800-1791993600@www.gematsu.com
+SUMMARY:IGN Fan Fest 2026: Fall Edition
+DESCRIPTION:IGN will host IGN Fan Fest 2026: Fall Edition on October 14 at 10:00 a.m. PT / 1:00 p.m. ET. YOu will be able to watch it on YouTube. \nThe broadcast will feature over 90 exclusive reveals across games\, movies\, TV\, comics\, and collectibles\, including 10 brand-new games\, first looks\, news\, and giveaways. \nConfirmed titles include: \nGames\n4 Penny Coffins9 Yin Sutra: ImmortalAcornia: Mirror WorldsActs of BloodAnno 117: Pax RomanaArizona SunshineCheckmate ProtocolDragon Ball Xenoverse 3For The StarsGolden Retriever Simple LifeHela: of Mice & Magicover the hillSilk & SorrowSker: The Bleeding VeilSplizardsThe Expanse: Osiris RebornThe Forge: Steel FrontierThe Lich WarsThere are No Ghosts at the GrandTom Clancy’s Rainbow Six SiegeUvsU: You vs YouWarhammer 40\,000: Boltgun IIWhere Winds Meet\nMovies\nChristmas at the KringlesCrawlersEbenezerMr. IrrelevantThe CycleWhalefallYour Mother Your Mother Your Mother\nTV\, Comics\, and More\nBass X MachinaBlue Eye Samurai Season 2Cyberpunk: Edgerunners 2Golden AxeIDW Publishing feat. GODZILLA & SONIC THE HEDGEHOGMayfair WitchesThe Boulet Brothers’ DragulaThe Walking Dead Daryl DixonVisionQuestAnd many more!
+URL:https://www.gematsu.com/event/ign-fan-fest-2026-fall-edition
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_IGN-FanFest_10-14-26.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T070000
 DTEND;TZID=America/New_York:20261015T073000
-DTSTAMP:20261012T083826
+DTSTAMP:20261013T092307
 CREATED:20260921T145502Z
 LAST-MODIFIED:20261001T132912Z
 UID:1080275-1792047600-1792049400@www.gematsu.com
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261015T150000
 DTEND;TZID=America/New_York:20261015T160000
-DTSTAMP:20261012T083826
+DTSTAMP:20261013T092307
 CREATED:20261001T132830Z
 LAST-MODIFIED:20261002T140033Z
 UID:1081834-1792076400-1792080000@www.gematsu.com
@@ -60,13 +60,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261016T120000
 DTEND;TZID=America/New_York:20261016T140000
-DTSTAMP:20261012T083826
+DTSTAMP:20261013T092307
 CREATED:20260929T023158Z
-LAST-MODIFIED:20260929T023158Z
+LAST-MODIFIED:20261012T173550Z
 UID:1074376-1792152000-1792159200@www.gematsu.com
 SUMMARY:The MIX Fall Game Showcase 2026
-DESCRIPTION:The Media Indie Exchange will host The MIX Summer Game Showcase 2026 on October 16 at 9:00 a.m. PT / 12:00 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe broadcast will feature new game announcements\, reveals\, trailers\, gameplay\, and more.
+DESCRIPTION:The Media Indie Exchange will host The MIX Fall Game Showcase 2026 on October 16 at 9:00 a.m. PT / 12:00 p.m. ET. You will be able to watch it on YouTube and Twitch. \nThe broadcast will feature new game announcements\, reveals\, trailers\, gameplay\, and more. In total\, it will feature more than 65 independent titles across PC and consoles and guest hosts including Tim Schafer\, Greg Miller\, David Lucio and Akeem Lawanson.
 URL:https://www.gematsu.com/event/the-mix-fall-game-showcase-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_The-MIX-Fall-Showcase-2026_10-16-26.jpg
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/09/Event_The-MIX-Fall-Game-Showcase-2026_10-16-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261201T040000
+DTEND;TZID=America/New_York:20261201T080000
+DTSTAMP:20261013T092307
+CREATED:20261012T131318Z
+LAST-MODIFIED:20261012T131318Z
+UID:1083652-1796097600-1796112000@www.gematsu.com
+SUMMARY:INDIE Live Expo: December 1\, 2026
+DESCRIPTION:Ryu’s Office will host INDIE Live Expo on December 1 at 2:00 a.m. PT / 5:00 a.m. ET / 18:00 JST. You will be able to watch it on YouTube (English\, Japanese\, Korean)\, Twitch (English\, Japanese)\, Twitter (English\, Japanese\, Korean)\, and TikTok. \nThe broadcast will highlight “2027’s must-have indie titles\,” featuring “dozens” of announcements including world premieres\, content updates\, surprises launches\, and more during the signature INDIE Waves segment. \nThe annual INDIE Live Expo award ceremony will bestow honors upon critically acclaimed titles\, selected by prominent figures from across the games industry.
+URL:https://www.gematsu.com/event/indie-live-expo-december-1-2026
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_ILE-Inits_12-01-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261220T030000
+DTSTAMP:20261013T092307
+CREATED:20261013T023909Z
+LAST-MODIFIED:20261013T023957Z
+UID:1083778-1797620400-1797735600@www.gematsu.com
+SUMMARY:Jump Festa 2027
+DESCRIPTION:Jump Festa 2027 will run from December 19 to 20 at Makuhari Messe in Chiba\, Japan. \nMore details to come.
+URL:https://www.gematsu.com/event/jump-festa-2027
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Jump-Festa-2027_12-19-26.jpg
 END:VEVENT
 END:VCALENDAR
