@@ -22,21 +22,9 @@ DTSTART:20261101T060000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261022T070000
-DTEND;TZID=America/New_York:20261022T080000
-DTSTAMP:20261022T015343
-CREATED:20261021T123040Z
-LAST-MODIFIED:20261021T144947Z
-UID:1085615-1792652400-1792656000@www.gematsu.com
-SUMMARY:Muv Luv Presents 2026
-DESCRIPTION:aNCHOR will host Muv-Luv Presents 2026 on October 22 at 20:00 JST. You will be able to watch it on YouTube. \nThe bradcast will feature the latest information on Muv-Luv series projects like Muv-Luv Girls’ Garden and Muv-Luv: Tactics – Kalidasa at Nightmare\, as well as a look at future developments. There may even be information revealed here for the first time.
-URL:https://www.gematsu.com/event/muv-luv-presents-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Muv-Luv_10-22-26.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261023T080000
 DTEND;TZID=America/New_York:20261023T090000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261021T040520Z
 LAST-MODIFIED:20261021T040520Z
 UID:1085592-1792742400-1792746000@www.gematsu.com
@@ -48,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261028T070000
 DTEND;TZID=America/New_York:20261028T083000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261014T031921Z
 LAST-MODIFIED:20261014T053222Z
 UID:1084038-1793170800-1793176200@www.gematsu.com
@@ -60,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261028T070000
 DTEND;TZID=America/New_York:20261028T090000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261021T053012Z
 LAST-MODIFIED:20261021T053012Z
 UID:1085597-1793170800-1793178000@www.gematsu.com
@@ -70,9 +58,33 @@ URL:https://www.gematsu.com/event/hiroki-yasumoto-yoko-taro-and-yosuke-saito-plo
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Voice-of-Cards_10-28-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261028T073000
+DTEND;TZID=America/New_York:20261028T083000
+DTSTAMP:20261023T034415
+CREATED:20261022T121912Z
+LAST-MODIFIED:20261022T121912Z
+UID:1085801-1793172600-1793176200@www.gematsu.com
+SUMMARY:Neverness to Everness Version 1.5 Update "Once Upon a Glitched Call" Preview Special Program
+DESCRIPTION:Publisher Perfect World Games and developer Hotta Studio will host the free-to-play supernatural urban open-world action RPG Neverness to Everness Version 1.5 Update “Once Upon a Glitched Call” Preview Special Program on October 28 at 4:30 a.m. PT / 7:30 a.m. ET. You will be able to watch it on YouTube (English\, Japanese\, Korean) and Twitch.
+URL:https://www.gematsu.com/event/neverness-to-everness-version-1-5-update-once-upon-a-glitched-call-preview-special-program
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_NTE_10-28-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261101T060000
+DTEND;TZID=America/New_York:20261101T070000
+DTSTAMP:20261023T034415
+CREATED:20261023T030420Z
+LAST-MODIFIED:20261023T030420Z
+UID:1085905-1793512800-1793516400@www.gematsu.com
+SUMMARY:Petit Planet Official Release Preview Program
+DESCRIPTION:miHoYo will host the Petit Planet Official Release Preview Program on November 1 at 20:00 JST. You will be able to watch it on YouTube. \nThe broadcast will feature members of the development team and special guests introducing the game content of Petit Planet\, including nurturing your own planet and interacting with unique neighbors as you turn the “first page” of your new cosmic life. Information on upcoming events and campaigns will also be announced.
+URL:https://www.gematsu.com/event/petit-planet-official-release-preview-program
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Petit-Planet_11-01-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261201T040000
 DTEND;TZID=America/New_York:20261201T080000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261012T131318Z
 LAST-MODIFIED:20261012T131318Z
 UID:1083652-1796097600-1796112000@www.gematsu.com
@@ -84,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T230000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261019T045734Z
 LAST-MODIFIED:20261019T045734Z
 UID:1085176-1796931000-1796943600@www.gematsu.com
@@ -96,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261220T030000
-DTSTAMP:20261022T015343
+DTSTAMP:20261023T034415
 CREATED:20261013T023909Z
 LAST-MODIFIED:20261013T023957Z
 UID:1083778-1797620400-1797735600@www.gematsu.com
