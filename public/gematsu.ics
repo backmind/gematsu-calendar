@@ -20,59 +20,35 @@ TZOFFSETTO:-0500
 TZNAME:EST
 DTSTART:20261101T060000
 END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20270314T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20271107T060000
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261028T070000
-DTEND;TZID=America/New_York:20261028T083000
-DTSTAMP:20261028T043444
-CREATED:20261014T031921Z
-LAST-MODIFIED:20261014T053222Z
-UID:1084038-1793170800-1793176200@www.gematsu.com
-SUMMARY:Gundam Games 40th Anniversary Live Stream
-DESCRIPTION:Bandai Namco will host the “Gundam Games 40th Anniversary Live Stream” on October 28 at 20:00 JST. You will be able to watch it on YouTube (English\, Japanese\, Korean\, Traditional Chinese [Hong Kong]\, Traditional Chinese [Taiwan]\, Simplified Chinese). \nThe broadcast will feature the following segments: \nConsole and PC Games Introduction Corner (60 minutes) – Information concerning the Mobile Suit Gundam: Battle Operation series and Gundam Rogue Orbit. (Editor’s Note: The unannounced Mobile Suit Gundam: Battle Operation 3 leaked earlier this month.)Mobile Games Introduction Corner (15 minutes) – Information on Gundam games 40th anniversary campaigns for mobile games like SD Gundam G Generation ETERNAL.Additional Information Corner (15 minutes) – Etcetera.
-URL:https://www.gematsu.com/event/gundam-games-40th-anniversary-live-stream
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Gundam-Games-40th-Live-Steram_10-28-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261028T070000
-DTEND;TZID=America/New_York:20261028T090000
-DTSTAMP:20261028T043444
-CREATED:20261021T053012Z
-LAST-MODIFIED:20261021T053012Z
-UID:1085597-1793170800-1793178000@www.gematsu.com
-SUMMARY:Hiroki Yasumoto\, Yoko Taro\, and Yosuke Saito Plot to Promote Voice of Cards Again\, Five Years Later Broadcast
-DESCRIPTION:Square Enix will host the “Hiroki Yasumoto\, Yoko Taro\, and Yosuke Saito Plot to Promote Voice of Cards Again\, Five Years Later Broadcast” on October 28 at 20:00 JST. You will be able to watch it on YouTube. \nThe broadcast will feature Voice of Cards: The Isle Dragon Roars game master voice actor Hiroki Yasumoto\, creative director Yoko Taro\, and executive producer Yosuke Saito as they look back on the past five years since Voice of Cards launched\, and dive deep into the appeal of the series. \nUsers can submit questions for the Yasumoto\, Taro\, and Saito by posting on Twitter with the hashtag #ヴォイカ5周年.
-URL:https://www.gematsu.com/event/hiroki-yasumoto-yoko-taro-and-yosuke-saito-plot-to-promote-voice-of-cards-again-five-years-later-broadcast
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Voice-of-Cards_10-28-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261028T073000
-DTEND;TZID=America/New_York:20261028T083000
-DTSTAMP:20261028T043444
-CREATED:20261022T121912Z
-LAST-MODIFIED:20261022T121912Z
-UID:1085801-1793172600-1793176200@www.gematsu.com
-SUMMARY:Neverness to Everness Version 1.5 Update "Once Upon a Glitched Call" Preview Special Program
-DESCRIPTION:Publisher Perfect World Games and developer Hotta Studio will host the free-to-play supernatural urban open-world action RPG Neverness to Everness Version 1.5 Update “Once Upon a Glitched Call” Preview Special Program on October 28 at 4:30 a.m. PT / 7:30 a.m. ET. You will be able to watch it on YouTube (English\, Japanese\, Korean) and Twitch.
-URL:https://www.gematsu.com/event/neverness-to-everness-version-1-5-update-once-upon-a-glitched-call-preview-special-program
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_NTE_10-28-26.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261028T100000
-DTEND;TZID=America/New_York:20261028T101500
-DTSTAMP:20261028T043444
-CREATED:20261027T140622Z
-LAST-MODIFIED:20261027T140622Z
-UID:1086235-1793181600-1793182500@www.gematsu.com
-SUMMARY:Nintendo Indie World: October 28\, 2026
-DESCRIPTION:Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / 10:00 a.m. ET featuring roughly 15 minutes of news and updates on independent games coming to Switch 2 and Switch. You will be able to watch it on YouTube (Americas\, Europe\, Japan) and Twitch.
-URL:https://www.gematsu.com/event/nintendo-indie-world-october-28-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Nintendo-Indie-World_10-28-26.jpg
+DTSTART;TZID=America/New_York:20261029T090000
+DTEND;TZID=America/New_York:20261029T100000
+DTSTAMP:20261029T045908
+CREATED:20261029T060525Z
+LAST-MODIFIED:20261029T060525Z
+UID:1086663-1793264400-1793268000@www.gematsu.com
+SUMMARY:Gamescom Asia x Thailand Game Show 2026 Primetime
+DESCRIPTION:The Gamescom Asia x Thailand Game Show 2026 Primetime broadcast will air on October 9 at 6:00 a.m. PT / 9:00 a.m. ET. You will be able to watch it on YouTube (English\, Thai\, Indonesian\, Vietnamese). \nThe broadcast\, a preview of Gamescom Asia x Thailand Game Show 2026\, will feature “the latest game trailers\, teasers and highlights from across the global gaming scene.”
+URL:https://www.gematsu.com/event/gamescom-asia-x-thailand-game-show-2026-primetime
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Gamescom-Asia-Primetime_08-29-26.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261030T073000
 DTEND;TZID=America/New_York:20261030T083000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045908
 CREATED:20261026T123942Z
 LAST-MODIFIED:20261026T123942Z
 UID:1086046-1793345400-1793349000@www.gematsu.com
@@ -84,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261101T060000
 DTEND;TZID=America/New_York:20261101T070000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045908
 CREATED:20261023T030420Z
 LAST-MODIFIED:20261023T030420Z
 UID:1085905-1793512800-1793516400@www.gematsu.com
@@ -96,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T130000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045908
 CREATED:20261026T150050Z
 LAST-MODIFIED:20261026T052625Z
 UID:1086037-1793620800-1793624400@www.gematsu.com
@@ -108,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261201T040000
 DTEND;TZID=America/New_York:20261201T080000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045908
 CREATED:20261012T131318Z
 LAST-MODIFIED:20261012T131318Z
 UID:1083652-1796097600-1796112000@www.gematsu.com
@@ -118,9 +94,21 @@ URL:https://www.gematsu.com/event/indie-live-expo-december-1-2026
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_ILE-Inits_12-01-26.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20261203T040000
+DTEND;TZID=America/New_York:20261203T060000
+DTSTAMP:20261029T045908
+CREATED:20261029T062105Z
+LAST-MODIFIED:20261029T062105Z
+UID:1086665-1796270400-1796277600@www.gematsu.com
+SUMMARY:PlayStation Partner Awards 2026 Japan Asia
+DESCRIPTION:Sony Interactive Entertainment Japan Asia will host PlayStation Partner Awards 2026 Japan Asia on December 3. \nPlayStation Partner Awards 2026 Japan Asia recognizes the PlayStation versions of hit titles sold across the Japan and Asia regions. \nThe award categories are as follows: \nGrand Award \nAwarded to the top three titles developed in the Japan / Asian regions with highest worldwide sales between October 1\, 2025 and September 30\, 2026. \nPartner Award \nAwarded to titles developed in the Japan / Asia region with top-ranked worldwide sales between October 1\, 2025 and September 30\, 2026\, with particularly noteworthy activity results. \nAccessibility Award \nAwarded to titles with outstanding accessibility features. \nOngoing Game Award \nAwarded to titles that continue to entertain players post-launch via ongoing updates and events. \nIndependent Creators’ Award \nAwarded to outstanding independent games from the Japan / Asia regions titles selected by PlayStation players. \nUsers can vote from the following titles: \nCoffee Talk Tokyo (Chorus Worldwide)inKONBINI: One Store. Many Stories (Beep Japan)Lost Eidolons: Veil of the Witch (Kakao Games)Lumines Arise (Enhance Games)Mistfall Hunter (Skystone Games)Never Grave: The Witch and The Curse (Pocketpair)Starbites (Nippon Ichi Software)Starward (Shengtian Games)Village in the Shade (Nippon Ichi Software)\nPlayStation 5 Pro Integration Award \nAwarded to games that fully utilize PlayStation 5 Pro’s capabilities. \nPlayers’ Choice Award \nAwarded to the top titles in the Japan / Asia regions selected by PlayStation players. The title candidates are directly taken from the top 30 titles released between October 1\, 2025 and September 30\, 2026\, ranked by total playtime in the region during the same period. \nUsers can vote from the following titles: \n007 First Light (IO Interactive)ARC Raiders (Nexon / Embark Studios)Arknights: Endfield (GRYPHLINE)Assassin’s Creed Black Flag Resynced (Ubisoft)Battlefield 6 (Electronic Arts)Beast of Reincarnation (Fictions)Code Vein II (Bandai Namco Entertainment)Crimson Desert (Pearl Abyss)Digimon Story: Time Stranger (Bandai Namco Entertainment)Dragon Quest I & II HD-2D Remake (Square Enix)Dragon Quest VII Reimagined (Square Enix)Onimusha: Way of the Sword (Capcom)Inazuma Eleven: Victory Road (LEVEL-5)Monster Hunter Stories 3: Twisted Reflection (Capcom)Neverness to Everness (Perfect World Games)Nioh 3 (Koei Tecmo Games)Octopath Traveler 0 (Square Enix)Powerful Pro Baseball 2026-2027 (Konami Digital Entertainment)PRAGMATA (Capcom)PUBG: Battlegrounds (KRAFTON)Resident Evil Requiem (CAPCOM)Satisfactory (Coffee Stain Publishing)Sega Football Club Champions 2026 (SEGA)Starfield (Bethesda Softworks)Starward (Shengtian Games)The Seven Deadly Sins: Origin (Netmarble)Tokyo Xtreme Racer (Genki)Where Winds Meet (NetEase Games)Yakuza 0 Director’s Cut (SEGA)Yakuza Kiwami 3 & Dark Ties (SEGA)\nVote Now \nVoting is available via the following links: \nHong KongIndonesiaJapanMalaysiaThailandSingaporeSouth Korea\nVoting will close on November 6 at 23:59 JST.
+URL:https://www.gematsu.com/event/playstation-partner-awards-2026-japan-asia
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_PlayStation-Partner-Awards-2026_12-03-26.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T230000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045908
 CREATED:20261019T045734Z
 LAST-MODIFIED:20261019T045734Z
 UID:1085176-1796931000-1796943600@www.gematsu.com
@@ -132,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261220T030000
-DTSTAMP:20261028T043444
+DTSTAMP:20261029T045909
 CREATED:20261013T023909Z
 LAST-MODIFIED:20261013T023957Z
 UID:1083778-1797620400-1797735600@www.gematsu.com
@@ -140,5 +128,17 @@ SUMMARY:Jump Festa 2027
 DESCRIPTION:Jump Festa 2027 will run from December 19 to 20 at Makuhari Messe in Chiba\, Japan. \nMore details to come.
 URL:https://www.gematsu.com/event/jump-festa-2027
 ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_Jump-Festa-2027_12-19-26.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20270520T210000
+DTEND;TZID=America/New_York:20270523T040000
+DTSTAMP:20261029T045909
+CREATED:20261029T054511Z
+LAST-MODIFIED:20261029T054511Z
+UID:1086660-1810846800-1811044800@www.gematsu.com
+SUMMARY:BitSummit High
+DESCRIPTION:BitSummit High will run from from May 21 to 23\, 2026 at the Miyako Messe Exhibition Center in Kyoto\, Japan. You will be able to watch it on YouTube and Twitch. \nFurther details to come.
+URL:https://www.gematsu.com/event/bitsummit-high
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_BitSummit-High-Inits_05-21-27.jpg
 END:VEVENT
 END:VCALENDAR
