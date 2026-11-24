@@ -36,31 +36,31 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261125T060000
 DTEND;TZID=America/New_York:20261125T063000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261118T115225Z
-LAST-MODIFIED:20261118T115225Z
+LAST-MODIFIED:20261124T135620Z
 UID:1088681-1795586400-1795588200@www.gematsu.com
-SUMMARY:TYPE-MOON Times: Melty Blood Latest Information Special
-DESCRIPTION:TYPE-MOON will host TYPE-MOON Times: Melty Blood Latest Information Special on November 25 at 20:00 JST. You will be able to watch it on YouTube. \nThe broadcast will feature the latest information about Melty Blood: Twi-Lumina. Presenters include Ryosuke Kanemoto (Shiki Tohno voice actor)\, Youhei Azakami (Roa voice actor)\, and Kamone Serizawa (French-Bread development director).
-URL:https://www.gematsu.com/event/type-moon-times-melty-blood-latest-information-special
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/11/Event_Type-Moon-Times_11-25-26.jpg
+SUMMARY:TYPE-MOON Times: Melty Blood: Twi-Lumina Latest Information Special
+DESCRIPTION:TYPE-MOON will host TYPE-MOON Times: Melty Blood: Twi-Lumina Latest Information Special on November 25 at 20:00 JST. You will be able to watch it on YouTube. \nThe broadcast will feature the latest information about Melty Blood: Twi-Lumina. Presenters include Ryosuke Kanemoto (Shiki Tohno voice actor)\, Youhei Azakami (Roa voice actor)\, and Kamone Serizawa (French-Bread development director).
+URL:https://www.gematsu.com/event/type-moon-times-melty-blood-twi-lumina-latest-information-special
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/11/Event_TYPE-MOON-Times-Melty-Blood_11-25-26.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/New_York:20261201T040000
-DTEND;TZID=America/New_York:20261201T080000
-DTSTAMP:20261123T082046
+DTSTART;TZID=America/New_York:20261201T050000
+DTEND;TZID=America/New_York:20261201T090000
+DTSTAMP:20261124T090516
 CREATED:20261012T131318Z
-LAST-MODIFIED:20261012T131318Z
-UID:1083652-1796097600-1796112000@www.gematsu.com
+LAST-MODIFIED:20261123T152640Z
+UID:1083652-1796101200-1796115600@www.gematsu.com
 SUMMARY:INDIE Live Expo: December 1\, 2026
-DESCRIPTION:Ryu’s Office will host INDIE Live Expo on December 1 at 2:00 a.m. PT / 5:00 a.m. ET / 18:00 JST. You will be able to watch it on YouTube (English\, Japanese\, Korean)\, Twitch (English\, Japanese)\, Twitter (English\, Japanese\, Korean)\, and TikTok. \nThe broadcast will highlight “2027’s must-have indie titles\,” featuring “dozens” of announcements including world premieres\, content updates\, surprises launches\, and more during the signature INDIE Waves segment. \nThe annual INDIE Live Expo award ceremony will bestow honors upon critically acclaimed titles\, selected by prominent figures from across the games industry.
+DESCRIPTION:Ryu’s Office will host INDIE Live Expo on December 1 at 2:00 a.m. PT / 5:00 a.m. ET / 19:00 JST. You will be able to watch it on YouTube (English\, Japanese\, Korean)\, Twitch (English\, Japanese)\, Twitter (English\, Japanese\, Korean)\, and TikTok. \nThe broadcast will highlight “2027’s must-have indie titles\,” featuring “dozens” of announcements including world premieres\, content updates\, surprises launches\, and more during the signature INDIE Waves segment. \nThe annual INDIE Live Expo award ceremony will bestow honors upon critically acclaimed titles\, selected by prominent figures from across the games industry.
 URL:https://www.gematsu.com/event/indie-live-expo-december-1-2026
-ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_ILE-Inits_12-01-26.jpg
+ATTACH;FMTTYPE=image/jpeg:https://www.gematsu.com/wp-content/uploads/2026/10/Event_INDIE-Live-Expo_12-01-26.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261203T040000
 DTEND;TZID=America/New_York:20261203T060000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261029T062105Z
 LAST-MODIFIED:20261029T180506Z
 UID:1086665-1796270400-1796277600@www.gematsu.com
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261203T150000
 DTEND;TZID=America/New_York:20261203T170000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261112T162142Z
 LAST-MODIFIED:20261112T162142Z
 UID:1088178-1796310000-1796317200@www.gematsu.com
@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261205T120000
 DTEND;TZID=America/New_York:20261205T123000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261105T171719Z
 LAST-MODIFIED:20261106T150951Z
 UID:1087481-1796472000-1796473800@www.gematsu.com
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261210T193000
 DTEND;TZID=America/New_York:20261210T230000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261019T045734Z
 LAST-MODIFIED:20261112T173114Z
 UID:1085176-1796931000-1796943600@www.gematsu.com
@@ -108,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261220T030000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261013T023909Z
 LAST-MODIFIED:20261013T023957Z
 UID:1083778-1797620400-1797735600@www.gematsu.com
@@ -120,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20261231T080000
 DTEND;TZID=America/New_York:20261231T090000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261111T132337Z
 LAST-MODIFIED:20261111T132337Z
 UID:1088006-1798704000-1798707600@www.gematsu.com
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/New_York:20270520T210000
 DTEND;TZID=America/New_York:20270523T040000
-DTSTAMP:20261123T082046
+DTSTAMP:20261124T090516
 CREATED:20261029T054511Z
 LAST-MODIFIED:20261029T054511Z
 UID:1086660-1810846800-1811044800@www.gematsu.com
