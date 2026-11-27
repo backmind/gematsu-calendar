@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry_1.outputs.page_url || steps.deployment_retry_2.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -87,6 +87,31 @@ jobs:
         with:
           path: public
 
+      # Justo después de subirlo, la API puede no listar todavía el artefacto y
+      # deploy-pages falla con "No artifacts named github-pages". Relanzar el
+      # run no sirve (sube un segundo artefacto y falla por duplicado), así que
+      # se reintenta dentro del mismo job tras una espera.
+      # https://github.com/actions/deploy-pages/issues/451
       - name: Desplegar en GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Esperar antes del reintento 1
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 15
+
+      - name: Desplegar en GitHub Pages (reintento 1)
+        id: deployment_retry_1
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Esperar antes del reintento 2
+        if: steps.deployment_retry_1.outcome == 'failure'
+        run: sleep 60
+
+      - name: Desplegar en GitHub Pages (reintento 2)
+        id: deployment_retry_2
+        if: steps.deployment_retry_1.outcome == 'failure'
         uses: actions/deploy-pages@v4
